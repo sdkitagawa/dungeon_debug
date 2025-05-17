@@ -1,4 +1,4 @@
-# Goal: Create interactions within the dungeon that affect the player's state.
+# Dungeon module - Manages the dungeon states, door, keys, enemies and etc.
 
 # Creative Instructions:
 # The Dungeon’s Secrets: Unlock the path forward by managing the dungeon’s traps and treasures.
